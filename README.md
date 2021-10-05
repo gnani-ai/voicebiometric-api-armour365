@@ -2,7 +2,7 @@
 
 This document describes the Gnani’s voiceBiometric API that is used to get authenticate user with thier voice.
 
-## Prequisites use any voiceBiometric API
+## Prerequisites
 - To get access to our API(s) visit [voicebiometrics.ai](https://voicebiometrics.ai/api/) to register yourself.
 - `Token` and `accesskey` will be sent from gnani to your registered email id. This is mandatory to access the api.
 - API URL : `armour365.gnani.ai`
