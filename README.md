@@ -85,7 +85,7 @@ This document describes the Gnani’s armour365™ Voice Biometric API that is u
 </tbody>
 </table>
 
-## VoiceBiometric API Spoof:
+## VoiceBiometric API Spoof*:
 
 <table>
 <colgroup>
@@ -109,6 +109,8 @@ This document describes the Gnani’s armour365™ Voice Biometric API that is u
  </tr>
 </tbody>
 </table>
+* Antispoofing layer is available on-request basis.
+
 
 ## Sample Code
 Here are the list of sample codes.
