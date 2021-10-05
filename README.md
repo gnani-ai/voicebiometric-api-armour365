@@ -85,6 +85,31 @@ This document describes the Gnani’s voiceBiometric API that is used to get aut
 </tbody>
 </table>
 
+## VoiceBiometric API Spoof:
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Code</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">0</td>
+<td markdown="span">Bonafide</td>
+</tr>
+ <tr>
+<td markdown="span">1</td>
+<td markdown="span">Spoof</td>
+ </tr>
+</tbody>
+</table>
+
 ## Sample Code
 Here are the list of sample codes.
 
