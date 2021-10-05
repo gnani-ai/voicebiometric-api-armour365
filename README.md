@@ -1,6 +1,6 @@
-# Welcome to Gnani Voice-Biometric API Service
+# Welcome to armour365™ Voice-Biometric API Service
 
-This document describes the Gnani’s Voice Biometric API that is used to get authenticate user with thier voice.
+This document describes the Gnani’s armour365™ Voice Biometric API that is used to get authenticate user with thier voice.
 
 ## Prerequisites
 - To get access to our API(s) visit [voicebiometrics.ai](https://voicebiometrics.ai/api/) to register yourself.
