@@ -89,8 +89,8 @@ This document describes the Gnani’s voiceBiometric API that is used to get aut
 Here are the list of sample codes.
 
 REST Codes
-- [NodeJs](https://github.com/gnani-ai/gnani-voicebiometric/tree/master/Nodejs-Client)
-- [Python](https://github.com/gnani-ai/gnani-voicebiometric/tree/master/Python-Client)
+- [NodeJs](https://github.com/gnani-ai/voicebiometric-api-armour365/tree/master/Nodejs-Client)
+- [Python](https://github.com/gnani-ai/voicebiometric-api-armour365/tree/master/Python-Client)
 
 ### Support or Contact
 
