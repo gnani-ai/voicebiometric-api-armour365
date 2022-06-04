@@ -6,6 +6,7 @@ This document describes the Gnani’s armour365™ Voice Biometric API that is u
 - To get access to our API(s) visit [voicebiometrics.ai](https://voicebiometrics.ai/api/) to register yourself.
 - `Token` and `accesskey` will be sent from gnani to your registered email id. This is mandatory to access the api.
 - API URL : `armour365.gnani.ai`
+- Minumum audio duration required to do enrollment succesfully is 7 seconds.
 
 ## VoiceBiometric API Status codes:
 
